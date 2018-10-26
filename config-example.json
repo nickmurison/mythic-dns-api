@@ -1,0 +1,6 @@
+{
+        "domain.com": { 
+                "password": "SuperSecret",
+                "hostname": "home"
+        }
+}
